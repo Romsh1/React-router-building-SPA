@@ -7,7 +7,7 @@ function Homepage() {
    <div>
       <PageNav />
       <AppNav />
-      <h1>
+      <h1 className="test">
          Worldwise
       </h1>
 
