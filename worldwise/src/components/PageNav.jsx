@@ -16,10 +16,6 @@ function PageNav() {
                 <li>
                     <NavLink to='/product' >Product</NavLink>
                 </li>
-
-                <li>
-                    <NavLink to='/test' >Test</NavLink>
-                </li>
             </ul>
         </nav>
     );
